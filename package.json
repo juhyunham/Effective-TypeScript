@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --exec 'ts-node' --cwd $INIT_CWD",
+    "lint": "tslint -p .",
+    "format": "prettier --write chapter/**/*.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
