@@ -22,7 +22,10 @@
       <dt>2일차</dt>
       <dd>
         <ul>
-          <li></li>
+          <li>튜플 - tuple</li>
+          <li>never</li>
+          <li>type </li>
+          <li>union - 합집함 </li>
         </ul>
       </dd>
      </dl>
