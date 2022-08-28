@@ -28,6 +28,6 @@ type T1 = typeof p // Type is Person
 type T2 = typeof email
 
 const v1 = typeof p // Value is "Object"
-const v2 = typeof email
+const v2 = typeof email // Value is "function"
 
 export default {}
