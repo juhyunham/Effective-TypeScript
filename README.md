@@ -30,4 +30,18 @@
       </dd>
      </dl>
    </li>
+   <li>
+     <dl>
+      <dt>3일차</dt>
+      <dd>
+        <ul>
+          <li>Exclude</li>
+          <li>타입으로 접근시 - 대괄호 사용</li>
+          <li>Tuple[대괄호]</li>
+          <li>this</li>
+          <li>타입단언보다 <strong>타입선언</strong> 사용</li>
+        </ul>
+      </dd>
+     </dl>
+   </li>
  </ul>
