@@ -28,6 +28,11 @@ type T1 = typeof p // Type is Person
 type T2 = typeof email
 
 const v1 = typeof p // Value is "Object"
+
+// "string" | "number" | "bigint" | "boolean" | "symbol" | "undefined" | "object" | "function" 리턴타입이 8가지다~
+// 뭔지는 모르겠는데, 이중에 하나가 나올거야!
 const v2 = typeof email // Value is "function"
+
+type C = InstanceType<typeof Cylinders>
 
 export default {}
